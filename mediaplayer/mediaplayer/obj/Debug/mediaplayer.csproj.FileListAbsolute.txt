@@ -1,0 +1,15 @@
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.AssemblyReference.cache
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Form1.resources
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.cache
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Users\nurta\source\repos\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
