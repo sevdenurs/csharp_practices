@@ -1,0 +1,15 @@
+C:\Users\nurta\source\repos\radio\radio\bin\Debug\radio.exe.config
+C:\Users\nurta\source\repos\radio\radio\bin\Debug\radio.exe
+C:\Users\nurta\source\repos\radio\radio\bin\Debug\radio.pdb
+C:\Users\nurta\source\repos\radio\radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\nurta\source\repos\radio\radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.csproj.ResolveComReference.cache
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.Form1.resources
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.Properties.Resources.resources
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.csproj.GenerateResource.cache
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.exe
+C:\Users\nurta\source\repos\radio\radio\obj\Debug\radio.pdb
